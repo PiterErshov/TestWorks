@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleLinkedList_UnitTests", "DoubleLinkedList_UnitTests\DoubleLinkedList_UnitTests.csproj", "{1CF71BE0-014B-4803-8880-D7567B1D1E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF71BE0-014B-4803-8880-D7567B1D1E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF71BE0-014B-4803-8880-D7567B1D1E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF71BE0-014B-4803-8880-D7567B1D1E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF71BE0-014B-4803-8880-D7567B1D1E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3CC5AC7-8753-4686-9BEF-771AB85B8542}
+	EndGlobalSection
+EndGlobal
